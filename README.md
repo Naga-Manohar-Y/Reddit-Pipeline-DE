@@ -24,7 +24,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Output
 
-[<img src="https://github.com/Naga-Manohar-Y/Reddit-Pipeline-DE/blob/main/images/Dashboard.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
+[<img src="https://github.com/Naga-Manohar-Y/Reddit-Pipeline-DE/blob/main/images/Dashboard.png" width=70% height=70%>](https://lookerstudio.google.com/reporting/58dea70d-5b1f-4930-939e-d235709aee2c)
 
 * Final output from Google Data Studio. Link [here](https://lookerstudio.google.com/reporting/58dea70d-5b1f-4930-939e-d235709aee2c). Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
 
