@@ -12,7 +12,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Architecture
 
-<img src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/workflow.png" width=70% height=70%>
+<img src="https://github.com/Naga-Manohar-Y/Reddit-Pipeline-DE/blob/main/images/workflow.png" width=70% height=70%>
 
 1. Extract data using [Reddit API](https://www.reddit.com/dev/api/)
 1. Load into [AWS S3](https://aws.amazon.com/s3/)
@@ -24,9 +24,9 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Output
 
-[<img src="https://github.com/Naga-Manohar-Y/Reddit-Pipeline-DE/blob/main/images/workflow.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
+[<img src="https://github.com/Naga-Manohar-Y/Reddit-Pipeline-DE/blob/main/images/Dashboard.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
 
-* Final output from Google Data Studio. Link [here](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18). Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
+* Final output from Google Data Studio. Link [here](https://lookerstudio.google.com/reporting/58dea70d-5b1f-4930-939e-d235709aee2c). Note that Dashboard is reading from a static CSV output from Redshift. Redshift database was deleted so as not to incur cost.
 
 ## Setup
 
